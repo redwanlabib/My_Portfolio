@@ -1,0 +1,87 @@
+import Images from '../../src/assets/images/image1.png';
+const testimonialsData = [
+    {   
+      id: "1",
+      title: "Code Optimization",
+      description: "Learn techniques to optimize your code for improved performance and efficiency in web applications.",
+      image: "https://c8.alamy.com/comp/KCKKT1/web-development-word-on-digital-background-image-with-hi-res-rendered-KCKKT1.jpg",
+      link: "https://www.youtube.com/watch?v=NWnBxQjssvQ",
+  },
+  {
+      id: "2",
+      title: "Front-End Development",
+      description: "Explore the latest tools and techniques for creating beautiful and responsive user interfaces.",
+      image: "https://wallpaperbat.com/img/832150-web-developer-wallpaper.jpg",
+      link: "https://www.youtube.com/watch?v=fUmSkEvet08&list=PLu0W_9lII9ahwLNzab_rVfZ06ZCZYEcNs",
+  },
+  {
+      id: "3",
+      title: "Back-End Development",
+      description: "Dive into server-side programming, databases, and APIs to create robust back-end solutions.",
+      image: "https://t3.ftcdn.net/jpg/06/48/77/20/360_F_648772023_aumJWQU1hxeImRIc2wV04IZIP39XjSST.jpg",
+      link: "https://www.youtube.com/watch?v=KAh2TOrtTq4&list=PLu0W_9lII9ahwLNzab_rVfZ06ZCZYEcNs&index=3",
+  },
+  {
+      id: "4",
+      title: "Web Design Principles",
+      description: "Understand essential design principles to create visually appealing and user-friendly web pages.",
+      image: "https://st.depositphotos.com/1152339/2227/i/450/depositphotos_22277459-stock-photo-seo-web-development-concept-web.jpg",
+  },
+  {
+      id: "5",
+      title: "JavaScript Essentials",
+      description: "Master JavaScript fundamentals to enhance interactivity and functionality on your web pages.",
+      image: "https://c8.alamy.com/comp/HE6N7B/a-concept-of-web-development-including-programming-languages-HE6N7B.jpg",
+      link: "https://youtube.com/watch?v=kRs2PlJByBo&list=PLb6jCeMUfjiHSYHgi7QX1X2MgFNW82ikb",
+  },
+  {
+      id: "6",
+      title: "React Basics",
+      description: "Get introduced to React, a popular front-end library for building interactive user interfaces.",
+      image: "https://repository-images.githubusercontent.com/579457433/b3911fab-f3fe-4dfc-b467-c6e68ede85b3",
+      link: "https://www.youtube.com/watch?v=akUpoNMHMHw&list=PLb6jCeMUfjiHSYHgi7QX1X2MgFNW82ikb&index=10",
+  },
+  {
+    id: 1,
+    name: 'Aminul Islam B.',
+    course: 'Learn Bootstrap 5 with projects',
+    feedback: 'This course is awesome! At the end of this course anyone will be able to use Bootstrap efficiently. So, If you want to learn bootstrap 5 simply you can take this course. I hope you can learn a lot.',
+    imageUrl: Images,
+  },
+  {
+    id: 2,
+    name: 'Aminul Islam B.',
+    course: 'Learn Bootstrap 5 with projects',
+    feedback: 'This course is awesome! At the end of this course anyone will be able to use Bootstrap efficiently. So, If you want to learn bootstrap 5 simply you can take this course. I hope you can learn a lot.',
+    imageUrl: Images,
+  },
+  {
+    id: 2,
+    name: 'Aminul Islam B.',
+    course: 'Learn Bootstrap 5 with projects',
+    feedback: 'This course is awesome! At the end of this course anyone will be able to use Bootstrap efficiently. So, If you want to learn bootstrap 5 simply you can take this course. I hope you can learn a lot.',
+    imageUrl: Images,
+  },
+  {
+    id: 2,
+    name: 'Aminul Islam B.',
+    course: 'Learn Bootstrap 5 with projects',
+    feedback: 'This course is awesome! At the end of this course anyone will be able to use Bootstrap efficiently. So, If you want to learn bootstrap 5 simply you can take this course. I hope you can learn a lot.',
+    imageUrl: Images,
+  },
+  {
+    id: 2,
+    name: 'Aminul Islam B.',
+    course: 'Learn Bootstrap 5 with projects',
+    feedback: 'This course is awesome! At the end of this course anyone will be able to use Bootstrap efficiently. So, If you want to learn bootstrap 5 simply you can take this course. I hope you can learn a lot.',
+    imageUrl: Images,
+  },
+  {
+    id: 2,
+    name: 'Aminul Islam B.',
+    course: 'Learn Bootstrap 5 with projects',
+    feedback: 'This course is awesome! At the end of this course anyone will be able to use Bootstrap efficiently. So, If you want to learn bootstrap 5 simply you can take this course. I hope you can learn a lot.',
+    imageUrl: Images,
+  },
+];
+export default testimonialsData;
